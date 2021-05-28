@@ -1,4 +1,4 @@
-# higmos-responsive
+# Higmos-responsive
 
 Build a Responsive Website from Scratch | HTML, CSS Tutorial
 
