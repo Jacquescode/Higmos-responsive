@@ -2,4 +2,4 @@
 
 Build a Responsive Website from Scratch | HTML, CSS Tutorial
 
-A "Project Tutorial" from devchallenges.io I completed.
+A "Code Along Project Tutorial" from devchallenges.io that I have completed.
